@@ -1,6 +1,6 @@
 {
 	"presets": [
-		["env", {
+		["@babel/preset-env", {
 			// Intentionally set an old browser target so we can see the effects of Babel
 			"browsers": "ie 8",
 			"modules": false
